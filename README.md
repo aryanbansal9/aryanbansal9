@@ -12,7 +12,7 @@
 
 <!-- SOCIAL BADGES -->
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/aryan-bansal-204092222" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:aryanbansal711@gmail.com">
@@ -46,7 +46,7 @@ const aryanBansal: SoftwareEngineer = {
 - 🔭 **System Architecture:** Designing production-grade full-stack applications fused with intelligent LLM backends.
 - 🤖 **AI & Automation:** Building autonomous **n8n** workflows, custom webhook pipelines, and **LangChain / OpenAI** agentic systems.
 - ⚡ **Engineering Focus:** Clean code architecture, low-latency APIs, vector databases, and end-to-end cloud deployments.
-- 📫 **Direct Contact:** Reach out via **[LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)** or **[Email](mailto:aryanbansal711@gmail.com)** for collaborations and engineering opportunities.
+- 📫 **Direct Contact:** Reach out via **[LinkedIn](https://www.linkedin.com/in/aryan-bansal-204092222)** or **[Email](mailto:aryanbansal711@gmail.com)** for collaborations and engineering opportunities.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
