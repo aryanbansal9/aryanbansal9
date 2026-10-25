@@ -130,3 +130,4 @@ const aryanBansal: SoftwareEngineer = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,24&height=100&section=footer" width="100%" />
 </div>
+ 
